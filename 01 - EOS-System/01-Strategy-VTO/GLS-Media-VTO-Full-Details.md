@@ -1,11 +1,39 @@
-# Core Values - GLS Media VTO
+---
+tags: [VTO, GLS-Media, Strategy]
+---
 
-1. **Client-Centric Vision** Subordinate internal goals to serve clients'Âbest interests, ensuring their success drives business growth.
+# Core Values 
 
-2. **Trusted Leadership** Act as the most trusted advisor by providing consistent and transparent advice that inspires confidence.
+Text taken directly from the \"Core Values\" document... 
 
-3. **Authentic Connections** Build genuine relationships through empathetic listening and mutual understanding.
+# Core Focus
 
-4. **Transformative Impact** Commit to creating extraordinary results that make clients feel valued, respected, and supported.
+Text from the \"Core Focus\" document...
 
-5. **Continuous Improvement** Embrace lifelong learning and constant self-improvement to deliver innovative and effective solutions.
+# 10-Year Target
+
+Text from the \"10-Year Target\" document... 
+
+# Marketing Strategy
+
+Text from the \"Marketing Strategy\" document...
+
+
+# Three Years Picture
+
+Text from the \"Three Years Picture\" document...
+
+
+# One Year Plan
+
+Text from the \"One Year Plan\" document...
+
+
+# Quarterly Rocks
+
+Text from the \"Quarterly Rocks\" document...
+
+
+# Issues List
+
+Text from the \"Issues List\" document...
